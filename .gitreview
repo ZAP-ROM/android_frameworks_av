@@ -1,0 +1,5 @@
+[gerrit]
+host=review.sonic-developers.com
+port=29418
+project=SOKP/frameworks_av.git
+defaultbranch=sokp-l5.1
